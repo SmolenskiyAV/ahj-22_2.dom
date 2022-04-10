@@ -8,6 +8,9 @@
 
 ---
 
+[![Build status](https://ci.appveyor.com/api/projects/status/awa5kpsnn7mhqbyt?svg=true)](https://ci.appveyor.com/project/SmolenskiyAV/ahj-22-2-dom)
+
+
 ### Перемещение элемента
 
 #### Легенда
